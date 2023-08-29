@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+	background-image: url("card-game.png");
+	background-size: 40px;
+	background-repeat: repeat;
+	font-size: 50px;
+}
+h1, h2 {
+	font-size: 50px;
+	background-color: #CD853F;
+	border-radius: 25px;
+	color: #000080;
+	text-align: center;
+
+}
+
+button {
+	font-size: 30px;
+	border : 1px solid black;
+	border-radius: 5px;
+	background-color: #800080;
+}
+p {
+   font-size: : 25px;
+   background-color:#CD853F; 
+   color:#000080;
+   font-weight: bold;
+}
